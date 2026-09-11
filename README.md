@@ -1,4 +1,4 @@
-# Sales Analysis — 2019 E-commerce Data
+# Sales Analysis with Python — 2019 E-commerce Data
 It is never too late to be what you might have been – George Eliot
 
 My first end-to-end data analysis project: cleaning, exploration, visualization,
